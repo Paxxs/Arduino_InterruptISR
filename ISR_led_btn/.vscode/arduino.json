@@ -1,0 +1,8 @@
+{
+    "sketch": "ISR_ledtoggle.ino",
+    "output": "build",
+    "configuration": "cpu=16MHzatmega168",
+    "board": "arduino:avr:pro",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM5"
+}

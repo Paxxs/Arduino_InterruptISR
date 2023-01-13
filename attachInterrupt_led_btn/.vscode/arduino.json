@@ -1,0 +1,8 @@
+{
+    "sketch": "ledtoggle.ino",
+    "output": "build",
+    "configuration": "cpu=16MHzatmega168",
+    "board": "arduino:avr:pro",
+    "port": "COM5",
+    "programmer": "arduino:avrispmkii"
+}
